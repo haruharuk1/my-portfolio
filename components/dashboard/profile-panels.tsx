@@ -43,7 +43,8 @@ export function SkillsPanel() {
 
 export function ContactPanel() {
   const socials = [
-    { icon: GithubIcon, label: "GitHub", href: "https://github.com/haruharuk1" },
+    { icon: GithubIcon, label: "GitHub Main", href: "https://github.com/haruharuk1" },
+    { icon: GithubIcon, label: "GitHub Institute", href: "https://github.com/benjaminE1" },
     { icon: DiscordIcon, label: "Discord", href: "#contact"  },
     //{ icon: LinkedinIcon, label: "LinkedIn" },
     { icon: Mail, label: "Email", href: "#contact" },
